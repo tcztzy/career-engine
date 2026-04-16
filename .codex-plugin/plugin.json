@@ -1,0 +1,28 @@
+{
+  "name": "career-engine",
+  "version": "0.1.0",
+  "description": "Markdown-first career fieldwork skill for understanding real work, teams, and institutions.",
+  "author": {
+    "name": "Tang Ziya",
+    "email": "tcztzy@gmail.com",
+    "url": "https://github.com/tcztzy"
+  },
+  "homepage": "https://github.com/tcztzy/career-engine",
+  "repository": "https://github.com/tcztzy/career-engine",
+  "keywords": ["career", "fieldwork", "workplace", "sociology", "skills"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "career-engine",
+    "shortDescription": "Understand real work, not just job applications",
+    "longDescription": "A markdown-first plugin that helps users study workplaces, teams, and career tradeoffs through field observation, conversations, and structured reflection.",
+    "developerName": "Tang Ziya",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/tcztzy/career-engine",
+    "defaultPrompt": [
+      "Use career-engine to design a fieldwork plan for understanding whether a target team is actually healthy.",
+      "Use career-engine to turn interview notes into a better model of real work."
+    ],
+    "brandColor": "#334155"
+  }
+}

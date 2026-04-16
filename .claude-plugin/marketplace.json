@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "career-engine",
+  "description": "Markdown-first career fieldwork skill for understanding real work, teams, and institutions.",
+  "owner": {
+    "name": "Tang Ziya",
+    "email": "tcztzy@gmail.com"
+  },
+  "metadata": {
+    "version": "0.1.0",
+    "description": "Understand real work through field observation, interviews, and slow career decision loops."
+  },
+  "plugins": [
+    {
+      "name": "career-engine",
+      "description": "Understand real work, teams, and institutional life through field observation, informational interviews, and markdown-first synthesis loops.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/career-engine"
+      ]
+    }
+  ]
+}
