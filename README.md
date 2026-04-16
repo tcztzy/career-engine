@@ -22,11 +22,26 @@ The project is intentionally low-tech:
 - if a script is necessary, prefer `uv run` or `uvx`
 - skill files are the main product
 
+## MVP skills
+
+- `career-engine`: main loop and framing
+- `workplace-sensing`: read a team / manager / company as a work environment
+- `informational-interview`: design a conversation to test hypotheses
+- `post-interview-analysis`: turn interview experience into updated evidence and decisions
+
 ## Layout
 
 - `SKILL.md`: repo entrypoint
 - `skills/career-engine/SKILL.md`: installable main skill
 - `skills/career-engine/references/loop.md`: field loop and artifact model
+- `skills/workplace-sensing/SKILL.md`
+- `skills/informational-interview/SKILL.md`
+- `skills/post-interview-analysis/SKILL.md`
+- `templates/user/profile.md`
+- `templates/user/work-model.md`
+- `templates/user/targets.md`
+- `templates/user/target.md`
+- `examples/example-target-openai-platform.md`
 - `.codex-plugin/plugin.json`: Codex repo plugin manifest
 - `.claude-plugin/marketplace.json`: Claude Code marketplace manifest
 
@@ -52,7 +67,7 @@ This project is for:
 - team and manager reading
 - workplace ethnography
 - informational interview loops
-- offer interpretation in social context
+- post-interview interpretation
 - learning what kinds of work make a life better or worse
 
 It is not mainly:

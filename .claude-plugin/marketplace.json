@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "career-engine",
-  "description": "Markdown-first career fieldwork skill for understanding real work, teams, and institutions.",
+  "description": "Markdown-first career fieldwork skills for understanding real work, teams, and institutions.",
   "owner": {
     "name": "Tang Ziya",
     "email": "tcztzy@gmail.com"
@@ -13,11 +13,38 @@
   "plugins": [
     {
       "name": "career-engine",
-      "description": "Understand real work, teams, and institutional life through field observation, informational interviews, and markdown-first synthesis loops.",
+      "description": "Main framing skill for studying real work through field observation and markdown-first synthesis.",
       "source": "./",
       "strict": false,
       "skills": [
         "./skills/career-engine"
+      ]
+    },
+    {
+      "name": "workplace-sensing",
+      "description": "Read a team, manager, or company as a real work environment.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/workplace-sensing"
+      ]
+    },
+    {
+      "name": "informational-interview",
+      "description": "Design a high-signal conversation that tests specific hypotheses about a target.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/informational-interview"
+      ]
+    },
+    {
+      "name": "post-interview-analysis",
+      "description": "Turn interview experience into updated signals, risks, and decisions.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/post-interview-analysis"
       ]
     }
   ]
