@@ -48,6 +48,7 @@ Detailed loop: `references/loop.md`
 
 Prefer markdown outputs such as:
 - `profile.md`: what the user wants, fears, and refuses
+- `public-surface.md`: public-facing positioning grounded in real evidence
 - `work-model.md`: evolving model of good work, bad work, tolerable tradeoffs
 - `targets.md`: companies, teams, and hypotheses worth testing
 - `conversations.md`: notes from informational interviews and informal chats
@@ -96,6 +97,16 @@ Interpret the offer not just by pay, but by:
 - internal mobility reality
 - politics tax
 - fit with the user's current life phase
+
+### 5. Public surface calibration
+Use when the user wants LinkedIn, GitHub, or optional X to become easier to read without drifting into performative self-promotion.
+
+Produce:
+- one clear professional axis
+- recruiter-facing one-liner
+- hiring-manager-facing one-liner
+- strongest public proof links
+- minimal wording for LinkedIn / GitHub / optional X
 
 ## Operating rules
 

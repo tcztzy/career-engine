@@ -46,6 +46,15 @@
       "skills": [
         "./skills/post-interview-analysis"
       ]
+    },
+    {
+      "name": "public-surface-positioning",
+      "description": "Turn real work evidence into a clearer LinkedIn, GitHub, and optional X surface.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/public-surface-positioning"
+      ]
     }
   ]
 }

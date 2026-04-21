@@ -14,14 +14,15 @@
   "interface": {
     "displayName": "career-engine",
     "shortDescription": "Understand real work, not just job applications",
-    "longDescription": "A markdown-first plugin that helps users study workplaces, teams, and career tradeoffs through field observation, conversations, and structured reflection.",
+    "longDescription": "A markdown-first plugin that helps users study workplaces, teams, career tradeoffs, and public-facing positioning through field observation, conversations, and structured reflection.",
     "developerName": "Tang Ziya",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],
     "websiteURL": "https://github.com/tcztzy/career-engine",
     "defaultPrompt": [
       "Use career-engine to design a fieldwork plan for understanding whether a target team is actually healthy.",
-      "Use career-engine to turn interview notes into a better model of real work."
+      "Use career-engine to turn interview notes into a better model of real work.",
+      "Use career-engine to turn my real work evidence into a cleaner LinkedIn and GitHub surface."
     ],
     "brandColor": "#334155"
   }

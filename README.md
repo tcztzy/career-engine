@@ -28,6 +28,7 @@ The project is intentionally low-tech:
 - `workplace-sensing`: read a team / manager / company as a work environment
 - `informational-interview`: design a conversation to test hypotheses
 - `post-interview-analysis`: turn interview experience into updated evidence and decisions
+- `public-surface-positioning`: turn real work evidence into a clearer LinkedIn / GitHub / optional X surface
 
 ## Layout
 
@@ -37,7 +38,10 @@ The project is intentionally low-tech:
 - `skills/workplace-sensing/SKILL.md`
 - `skills/informational-interview/SKILL.md`
 - `skills/post-interview-analysis/SKILL.md`
+- `skills/public-surface-positioning/SKILL.md`
+- `skills/public-surface-positioning/references/surface-loop.md`
 - `templates/user/profile.md`
+- `templates/user/public-surface.md`
 - `templates/user/work-model.md`
 - `templates/user/targets.md`
 - `templates/user/target.md`
