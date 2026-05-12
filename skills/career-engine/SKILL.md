@@ -44,6 +44,8 @@ Do not default to:
 
 Detailed loop: `references/loop.md`
 
+Recruiter scam triage: `references/recruiter-scam-triage.md`
+
 ## Default outputs
 
 Prefer markdown outputs such as:
@@ -54,6 +56,7 @@ Prefer markdown outputs such as:
 - `conversations.md`: notes from informational interviews and informal chats
 - `signals.md`: manager/team/org clues from public artifacts
 - `decisions.md`: approach / avoid / revisit decisions with reasons
+- `recruiter-triage.md`: evidence note for suspicious inbound recruiter messages
 
 ## Recommended practice modes
 
@@ -107,6 +110,16 @@ Produce:
 - hiring-manager-facing one-liner
 - strongest public proof links
 - minimal wording for LinkedIn / GitHub / optional X
+
+### 6. Recruiter scam triage
+Use when an inbound recruiter message asks for a CV, personal documents, or fast contact before the role and company identity are clear.
+
+Produce:
+- claim vs evidence split
+- domain / phone / company / address consistency check
+- red flags and missing facts
+- minimal reply if continuing
+- classification: safe enough, proceed with constraints, do not engage, or report
 
 ## Operating rules
 

@@ -35,6 +35,7 @@ The project is intentionally low-tech:
 - `SKILL.md`: repo entrypoint
 - `skills/career-engine/SKILL.md`: installable main skill
 - `skills/career-engine/references/loop.md`: field loop and artifact model
+- `skills/career-engine/references/recruiter-scam-triage.md`: inbound recruiter scam triage checklist
 - `skills/workplace-sensing/SKILL.md`
 - `skills/informational-interview/SKILL.md`
 - `skills/post-interview-analysis/SKILL.md`
